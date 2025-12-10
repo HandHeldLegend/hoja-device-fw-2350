@@ -1,0 +1,3 @@
+[submodule "libaray/HOJA-LIB-RP2040"]
+	path = libaray/HOJA-LIB-RP2040
+	url = https://github.com/HandHeldLegend/HOJA-LIB-RP2040
